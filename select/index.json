@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "INTERNET OVERDOSE",
+  "base_artist": "NEEDY GIRL OVERDOSE、KOTOKO、Aiobahn +81",
+  "createdAt": "2025-12-01T19:47:06.747209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE",
+      "artist": "NEEDY GIRL OVERDOSE feat. KOTOKO & Aiobahn",
+      "has_synced": true,
+      "path": "select/01_INTERNET_OVERDOSE_NEEDY_GIRL_OVERDOSE_feat._KOTOKO_&_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE",
+      "artist": "NEEDY GIRL OVERDOSE, KOTOKO, Aiobahn",
+      "has_synced": true,
+      "path": "select/02_INTERNET_OVERDOSE_NEEDY_GIRL_OVERDOSE,_KOTOKO,_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE (inst)",
+      "artist": "Aiobahn",
+      "has_synced": true,
+      "path": "select/03_INTERNET_OVERDOSE_(inst)_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE feat. KOTOKO",
+      "artist": "Aiobahn feat. KOTOKO",
+      "has_synced": true,
+      "path": "select/04_INTERNET_OVERDOSE_feat._KOTOKO_Aiobahn_feat._KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Internet Overdose (feat. Aiobahn) [8bit]",
+      "artist": "NEEDY GIRL OVERDOSE",
+      "has_synced": false,
+      "path": "select/05_Internet_Overdose_(feat._Aiobahn)_[8bit]_NEEDY_GIRL_OVERDOSE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE",
+      "artist": "Aiobahn feat. KOTOKO",
+      "has_synced": true,
+      "path": "select/06_INTERNET_OVERDOSE_Aiobahn_feat._KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE (8bit)",
+      "artist": "NEEDY GIRL OVERDOSE & Aiobahn",
+      "has_synced": false,
+      "path": "select/07_INTERNET_OVERDOSE_(8bit)_NEEDY_GIRL_OVERDOSE_&_Aiobahn.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE - 8bit",
+      "artist": "NEEDY GIRL OVERDOSE",
+      "has_synced": false,
+      "path": "select/08_INTERNET_OVERDOSE_-_8bit_NEEDY_GIRL_OVERDOSE.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/09_INTERNET_OVERDOSE_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Internet Overdose",
+      "artist": "Rhett & Link",
+      "has_synced": true,
+      "path": "select/10_Internet_Overdose_Rhett_&_Link.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Internet Overdose",
+      "artist": "Rhett",
+      "has_synced": true,
+      "path": "select/11_Internet_Overdose_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE",
+      "artist": "Aiobahn",
+      "has_synced": true,
+      "path": "select/12_INTERNET_OVERDOSE_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE (feat. KOTOKO)",
+      "artist": "NEEDY GIRL OVERDOSE/Aiobahn/KOTOKO",
+      "has_synced": true,
+      "path": "select/13_INTERNET_OVERDOSE_(feat._KOTOKO)_NEEDY_GIRL_OVERDOSE_Aiobahn_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "internet overdose",
+      "artist": "aiobahn feat kotoko",
+      "has_synced": true,
+      "path": "select/14_internet_overdose_aiobahn_feat_kotoko.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE (feat. Aiobahn) [instrumental]",
+      "artist": "Aiobahn",
+      "has_synced": true,
+      "path": "select/15_INTERNET_OVERDOSE_(feat._Aiobahn)_[instrumental]_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "INTERNET OVERDOSE",
+      "artist": "Aiobahn",
+      "has_synced": true,
+      "path": "select/16_INTERNET_OVERDOSE_Aiobahn.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "INTERNET OVERDOSE",
+      "artist": "NEEDY GIRL OVERDOSE, KOTOKO, Aiobahn",
+      "has_synced": false,
+      "path": "select/pl_01_INTERNET_OVERDOSE_NEEDY_GIRL_OVERDOSE,_KOTOKO,_Aiobahn.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "INTERNET OVERDOSE",
+      "artist": "NEEDY GIRL OVERDOSE, KOTOKO, Aiobahn",
+      "has_synced": false,
+      "path": "select/pl_02_INTERNET_OVERDOSE_NEEDY_GIRL_OVERDOSE,_KOTOKO,_Aiobahn.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "INTERNET OVERDOSE",
+      "artist": "NEEDY GIRL OVERDOSE, KOTOKO, Aiobahn",
+      "has_synced": false,
+      "path": "select/pl_03_INTERNET_OVERDOSE_NEEDY_GIRL_OVERDOSE,_KOTOKO,_Aiobahn.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "INTERNET OVERDOSE - Cover",
+      "artist": "NEEDY GIRL OVERDOSE, KOTOKO, Aiobahn",
+      "has_synced": false,
+      "path": "select/pl_04_INTERNET_OVERDOSE_-_Cover_NEEDY_GIRL_OVERDOSE,_KOTOKO,_Aiobahn.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "INTERNET OVERDOSE",
+      "artist": "NEEDY GIRL OVERDOSE, KOTOKO, Aiobahn",
+      "has_synced": false,
+      "path": "select/pl_05_INTERNET_OVERDOSE_NEEDY_GIRL_OVERDOSE,_KOTOKO,_Aiobahn.txt"
+    }
+  ]
+}
